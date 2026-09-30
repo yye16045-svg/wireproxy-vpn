@@ -4,6 +4,9 @@
   "features": {
     "ghcr.io/devcontainers/features/go:1": {
       "version": "1.23"
+    },
+    "ghcr.io/devcontainers/features/sshd:1": {
+      "version": "latest"
     }
   },
   "forwardPorts": [25344, 25345],
